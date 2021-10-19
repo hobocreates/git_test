@@ -1,0 +1,1 @@
+This is hobocreates first git project!
